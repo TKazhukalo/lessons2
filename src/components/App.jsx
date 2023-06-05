@@ -3,7 +3,7 @@ import Header from './Header/Header'
 import ToDoList from './ToDoList/ToDoList'
 import Modal from './Modal/Modal'
 import FormLogin from './FormLogin/FormLogin'
-
+import { bootstrap }  from '../bootstrap.css';
 import { nanoid } from 'nanoid'
 
 export class App extends Component {
